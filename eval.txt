@@ -1,0 +1,1264 @@
+Accuracy: 89.32%
+
+Class 001.Black_footed_Albatross:
+  Precision: 90.91%
+  Recall: 100.00%
+  F1-score: 0.95
+Class 002.Laysan_Albatross:
+  Precision: 88.89%
+  Recall: 88.89%
+  F1-score: 0.89
+Class 003.Sooty_Albatross:
+  Precision: 88.89%
+  Recall: 100.00%
+  F1-score: 0.94
+Class 004.Groove_billed_Ani:
+  Precision: 78.57%
+  Recall: 84.62%
+  F1-score: 0.81
+Class 005.Crested_Auklet:
+  Precision: 100.00%
+  Recall: 100.00%
+  F1-score: 1.00
+Class 006.Least_Auklet:
+  Precision: 90.91%
+  Recall: 90.91%
+  F1-score: 0.91
+Class 007.Parakeet_Auklet:
+  Precision: 100.00%
+  Recall: 100.00%
+  F1-score: 1.00
+Class 008.Rhinoceros_Auklet:
+  Precision: 100.00%
+  Recall: 83.33%
+  F1-score: 0.91
+Class 009.Brewer_Blackbird:
+  Precision: 80.00%
+  Recall: 50.00%
+  F1-score: 0.62
+Class 010.Red_winged_Blackbird:
+  Precision: 90.91%
+  Recall: 90.91%
+  F1-score: 0.91
+Class 011.Rusty_Blackbird:
+  Precision: 82.35%
+  Recall: 100.00%
+  F1-score: 0.90
+Class 012.Yellow_headed_Blackbird:
+  Precision: 100.00%
+  Recall: 100.00%
+  F1-score: 1.00
+Class 013.Bobolink:
+  Precision: 100.00%
+  Recall: 66.67%
+  F1-score: 0.80
+Class 014.Indigo_Bunting:
+  Precision: 100.00%
+  Recall: 83.33%
+  F1-score: 0.91
+Class 015.Lazuli_Bunting:
+  Precision: 100.00%
+  Recall: 60.00%
+  F1-score: 0.75
+Class 016.Painted_Bunting:
+  Precision: 88.89%
+  Recall: 80.00%
+  F1-score: 0.84
+Class 017.Cardinal:
+  Precision: 85.71%
+  Recall: 75.00%
+  F1-score: 0.80
+Class 018.Spotted_Catbird:
+  Precision: 100.00%
+  Recall: 80.00%
+  F1-score: 0.89
+Class 019.Gray_Catbird:
+  Precision: 100.00%
+  Recall: 100.00%
+  F1-score: 1.00
+Class 020.Yellow_breasted_Chat:
+  Precision: 87.50%
+  Recall: 100.00%
+  F1-score: 0.93
+Class 021.Eastern_Towhee:
+  Precision: 83.33%
+  Recall: 83.33%
+  F1-score: 0.83
+Class 022.Chuck_will_Widow:
+  Precision: 85.71%
+  Recall: 85.71%
+  F1-score: 0.86
+Class 023.Brandt_Cormorant:
+  Precision: 100.00%
+  Recall: 92.31%
+  F1-score: 0.96
+Class 024.Red_faced_Cormorant:
+  Precision: 100.00%
+  Recall: 91.67%
+  F1-score: 0.96
+Class 025.Pelagic_Cormorant:
+  Precision: 85.71%
+  Recall: 85.71%
+  F1-score: 0.86
+Class 026.Bronzed_Cowbird:
+  Precision: 92.31%
+  Recall: 92.31%
+  F1-score: 0.92
+Class 027.Shiny_Cowbird:
+  Precision: 100.00%
+  Recall: 88.89%
+  F1-score: 0.94
+Class 028.Brown_Creeper:
+  Precision: 100.00%
+  Recall: 71.43%
+  F1-score: 0.83
+Class 029.American_Crow:
+  Precision: 80.00%
+  Recall: 100.00%
+  F1-score: 0.89
+Class 030.Fish_Crow:
+  Precision: 77.78%
+  Recall: 87.50%
+  F1-score: 0.82
+Class 031.Black_billed_Cuckoo:
+  Precision: 90.00%
+  Recall: 81.82%
+  F1-score: 0.86
+Class 032.Mangrove_Cuckoo:
+  Precision: 100.00%
+  Recall: 76.92%
+  F1-score: 0.87
+Class 033.Yellow_billed_Cuckoo:
+  Precision: 83.33%
+  Recall: 100.00%
+  F1-score: 0.91
+Class 034.Gray_crowned_Rosy_Finch:
+  Precision: 92.31%
+  Recall: 100.00%
+  F1-score: 0.96
+Class 035.Purple_Finch:
+  Precision: 83.33%
+  Recall: 83.33%
+  F1-score: 0.83
+Class 036.Northern_Flicker:
+  Precision: 90.91%
+  Recall: 90.91%
+  F1-score: 0.91
+Class 037.Acadian_Flycatcher:
+  Precision: 80.00%
+  Recall: 100.00%
+  F1-score: 0.89
+Class 038.Great_Crested_Flycatcher:
+  Precision: 92.31%
+  Recall: 100.00%
+  F1-score: 0.96
+Class 039.Least_Flycatcher:
+  Precision: 100.00%
+  Recall: 73.33%
+  F1-score: 0.85
+Class 040.Olive_sided_Flycatcher:
+  Precision: 100.00%
+  Recall: 91.67%
+  F1-score: 0.96
+Class 041.Scissor_tailed_Flycatcher:
+  Precision: 80.00%
+  Recall: 100.00%
+  F1-score: 0.89
+Class 042.Vermilion_Flycatcher:
+  Precision: 100.00%
+  Recall: 100.00%
+  F1-score: 1.00
+Class 043.Yellow_bellied_Flycatcher:
+  Precision: 100.00%
+  Recall: 80.00%
+  F1-score: 0.89
+Class 044.Frigatebird:
+  Precision: 100.00%
+  Recall: 85.71%
+  F1-score: 0.92
+Class 045.Northern_Fulmar:
+  Precision: 81.82%
+  Recall: 90.00%
+  F1-score: 0.86
+Class 046.Gadwall:
+  Precision: 100.00%
+  Recall: 90.00%
+  F1-score: 0.95
+Class 047.American_Goldfinch:
+  Precision: 80.00%
+  Recall: 100.00%
+  F1-score: 0.89
+Class 048.European_Goldfinch:
+  Precision: 100.00%
+  Recall: 100.00%
+  F1-score: 1.00
+Class 049.Boat_tailed_Grackle:
+  Precision: 57.14%
+  Recall: 80.00%
+  F1-score: 0.67
+Class 050.Eared_Grebe:
+  Precision: 75.00%
+  Recall: 100.00%
+  F1-score: 0.86
+Class 051.Horned_Grebe:
+  Precision: 80.00%
+  Recall: 80.00%
+  F1-score: 0.80
+Class 052.Pied_billed_Grebe:
+  Precision: 90.91%
+  Recall: 90.91%
+  F1-score: 0.91
+Class 053.Western_Grebe:
+  Precision: 92.31%
+  Recall: 100.00%
+  F1-score: 0.96
+Class 054.Blue_Grosbeak:
+  Precision: 78.57%
+  Recall: 100.00%
+  F1-score: 0.88
+Class 055.Evening_Grosbeak:
+  Precision: 100.00%
+  Recall: 92.31%
+  F1-score: 0.96
+Class 056.Pine_Grosbeak:
+  Precision: 87.50%
+  Recall: 87.50%
+  F1-score: 0.88
+Class 057.Rose_breasted_Grosbeak:
+  Precision: 92.31%
+  Recall: 100.00%
+  F1-score: 0.96
+Class 058.Pigeon_Guillemot:
+  Precision: 100.00%
+  Recall: 100.00%
+  F1-score: 1.00
+Class 059.California_Gull:
+  Precision: 60.00%
+  Recall: 75.00%
+  F1-score: 0.67
+Class 060.Glaucous_winged_Gull:
+  Precision: 100.00%
+  Recall: 83.33%
+  F1-score: 0.91
+Class 061.Heermann_Gull:
+  Precision: 100.00%
+  Recall: 87.50%
+  F1-score: 0.93
+Class 062.Herring_Gull:
+  Precision: 61.54%
+  Recall: 72.73%
+  F1-score: 0.67
+Class 063.Ivory_Gull:
+  Precision: 77.78%
+  Recall: 87.50%
+  F1-score: 0.82
+Class 064.Ring_billed_Gull:
+  Precision: 100.00%
+  Recall: 71.43%
+  F1-score: 0.83
+Class 065.Slaty_backed_Gull:
+  Precision: 100.00%
+  Recall: 87.50%
+  F1-score: 0.93
+Class 066.Western_Gull:
+  Precision: 81.82%
+  Recall: 81.82%
+  F1-score: 0.82
+Class 067.Anna_Hummingbird:
+  Precision: 100.00%
+  Recall: 83.33%
+  F1-score: 0.91
+Class 068.Ruby_throated_Hummingbird:
+  Precision: 90.91%
+  Recall: 100.00%
+  F1-score: 0.95
+Class 069.Rufous_Hummingbird:
+  Precision: 80.00%
+  Recall: 100.00%
+  F1-score: 0.89
+Class 070.Green_Violetear:
+  Precision: 100.00%
+  Recall: 87.50%
+  F1-score: 0.93
+Class 071.Long_tailed_Jaeger:
+  Precision: 100.00%
+  Recall: 50.00%
+  F1-score: 0.67
+Class 072.Pomarine_Jaeger:
+  Precision: 87.50%
+  Recall: 100.00%
+  F1-score: 0.93
+Class 073.Blue_Jay:
+  Precision: 100.00%
+  Recall: 100.00%
+  F1-score: 1.00
+Class 074.Florida_Jay:
+  Precision: 100.00%
+  Recall: 81.82%
+  F1-score: 0.90
+Class 075.Green_Jay:
+  Precision: 100.00%
+  Recall: 87.50%
+  F1-score: 0.93
+Class 076.Dark_eyed_Junco:
+  Precision: 100.00%
+  Recall: 80.00%
+  F1-score: 0.89
+Class 077.Tropical_Kingbird:
+  Precision: 92.86%
+  Recall: 92.86%
+  F1-score: 0.93
+Class 078.Gray_Kingbird:
+  Precision: 71.43%
+  Recall: 100.00%
+  F1-score: 0.83
+Class 079.Belted_Kingfisher:
+  Precision: 77.78%
+  Recall: 100.00%
+  F1-score: 0.88
+Class 080.Green_Kingfisher:
+  Precision: 88.89%
+  Recall: 88.89%
+  F1-score: 0.89
+Class 081.Pied_Kingfisher:
+  Precision: 83.33%
+  Recall: 100.00%
+  F1-score: 0.91
+Class 082.Ringed_Kingfisher:
+  Precision: 100.00%
+  Recall: 100.00%
+  F1-score: 1.00
+Class 083.White_breasted_Kingfisher:
+  Precision: 100.00%
+  Recall: 100.00%
+  F1-score: 1.00
+Class 084.Red_legged_Kittiwake:
+  Precision: 83.33%
+  Recall: 71.43%
+  F1-score: 0.77
+Class 085.Horned_Lark:
+  Precision: 100.00%
+  Recall: 100.00%
+  F1-score: 1.00
+Class 086.Pacific_Loon:
+  Precision: 100.00%
+  Recall: 87.50%
+  F1-score: 0.93
+Class 087.Mallard:
+  Precision: 88.89%
+  Recall: 100.00%
+  F1-score: 0.94
+Class 088.Western_Meadowlark:
+  Precision: 75.00%
+  Recall: 100.00%
+  F1-score: 0.86
+Class 089.Hooded_Merganser:
+  Precision: 85.71%
+  Recall: 100.00%
+  F1-score: 0.92
+Class 090.Red_breasted_Merganser:
+  Precision: 86.67%
+  Recall: 100.00%
+  F1-score: 0.93
+Class 091.Mockingbird:
+  Precision: 80.00%
+  Recall: 100.00%
+  F1-score: 0.89
+Class 092.Nighthawk:
+  Precision: 90.00%
+  Recall: 81.82%
+  F1-score: 0.86
+Class 093.Clark_Nutcracker:
+  Precision: 100.00%
+  Recall: 100.00%
+  F1-score: 1.00
+Class 094.White_breasted_Nuthatch:
+  Precision: 85.71%
+  Recall: 66.67%
+  F1-score: 0.75
+Class 095.Baltimore_Oriole:
+  Precision: 100.00%
+  Recall: 90.91%
+  F1-score: 0.95
+Class 096.Hooded_Oriole:
+  Precision: 75.00%
+  Recall: 85.71%
+  F1-score: 0.80
+Class 097.Orchard_Oriole:
+  Precision: 100.00%
+  Recall: 100.00%
+  F1-score: 1.00
+Class 098.Scott_Oriole:
+  Precision: 83.33%
+  Recall: 100.00%
+  F1-score: 0.91
+Class 099.Ovenbird:
+  Precision: 100.00%
+  Recall: 100.00%
+  F1-score: 1.00
+Class 100.Brown_Pelican:
+  Precision: 81.82%
+  Recall: 100.00%
+  F1-score: 0.90
+Class 101.White_Pelican:
+  Precision: 100.00%
+  Recall: 84.62%
+  F1-score: 0.92
+Class 102.Western_Wood_Pewee:
+  Precision: 71.43%
+  Recall: 100.00%
+  F1-score: 0.83
+Class 103.Sayornis:
+  Precision: 90.00%
+  Recall: 90.00%
+  F1-score: 0.90
+Class 104.American_Pipit:
+  Precision: 100.00%
+  Recall: 100.00%
+  F1-score: 1.00
+Class 105.Whip_poor_Will:
+  Precision: 80.00%
+  Recall: 80.00%
+  F1-score: 0.80
+Class 106.Horned_Puffin:
+  Precision: 100.00%
+  Recall: 100.00%
+  F1-score: 1.00
+Class 107.Common_Raven:
+  Precision: 100.00%
+  Recall: 100.00%
+  F1-score: 1.00
+Class 108.White_necked_Raven:
+  Precision: 75.00%
+  Recall: 100.00%
+  F1-score: 0.86
+Class 109.American_Redstart:
+  Precision: 100.00%
+  Recall: 100.00%
+  F1-score: 1.00
+Class 110.Geococcyx:
+  Precision: 88.89%
+  Recall: 100.00%
+  F1-score: 0.94
+Class 111.Loggerhead_Shrike:
+  Precision: 100.00%
+  Recall: 55.56%
+  F1-score: 0.71
+Class 112.Great_Grey_Shrike:
+  Precision: 88.89%
+  Recall: 100.00%
+  F1-score: 0.94
+Class 113.Baird_Sparrow:
+  Precision: 80.00%
+  Recall: 100.00%
+  F1-score: 0.89
+Class 114.Black_throated_Sparrow:
+  Precision: 100.00%
+  Recall: 100.00%
+  F1-score: 1.00
+Class 115.Brewer_Sparrow:
+  Precision: 75.00%
+  Recall: 81.82%
+  F1-score: 0.78
+Class 116.Chipping_Sparrow:
+  Precision: 90.00%
+  Recall: 81.82%
+  F1-score: 0.86
+Class 117.Clay_colored_Sparrow:
+  Precision: 54.55%
+  Recall: 66.67%
+  F1-score: 0.60
+Class 118.House_Sparrow:
+  Precision: 61.54%
+  Recall: 88.89%
+  F1-score: 0.73
+Class 119.Field_Sparrow:
+  Precision: 87.50%
+  Recall: 63.64%
+  F1-score: 0.74
+Class 120.Fox_Sparrow:
+  Precision: 87.50%
+  Recall: 87.50%
+  F1-score: 0.88
+Class 121.Grasshopper_Sparrow:
+  Precision: 83.33%
+  Recall: 71.43%
+  F1-score: 0.77
+Class 122.Harris_Sparrow:
+  Precision: 90.91%
+  Recall: 90.91%
+  F1-score: 0.91
+Class 123.Henslow_Sparrow:
+  Precision: 100.00%
+  Recall: 77.78%
+  F1-score: 0.88
+Class 124.Le_Conte_Sparrow:
+  Precision: 92.86%
+  Recall: 92.86%
+  F1-score: 0.93
+Class 125.Lincoln_Sparrow:
+  Precision: 100.00%
+  Recall: 100.00%
+  F1-score: 1.00
+Class 126.Nelson_Sharp_tailed_Sparrow:
+  Precision: 100.00%
+  Recall: 83.33%
+  F1-score: 0.91
+Class 127.Savannah_Sparrow:
+  Precision: 100.00%
+  Recall: 100.00%
+  F1-score: 1.00
+Class 128.Seaside_Sparrow:
+  Precision: 100.00%
+  Recall: 100.00%
+  F1-score: 1.00
+Class 129.Song_Sparrow:
+  Precision: 83.33%
+  Recall: 83.33%
+  F1-score: 0.83
+Class 130.Tree_Sparrow:
+  Precision: 100.00%
+  Recall: 87.50%
+  F1-score: 0.93
+Class 131.Vesper_Sparrow:
+  Precision: 83.33%
+  Recall: 62.50%
+  F1-score: 0.71
+Class 132.White_crowned_Sparrow:
+  Precision: 77.78%
+  Recall: 100.00%
+  F1-score: 0.88
+Class 133.White_throated_Sparrow:
+  Precision: 100.00%
+  Recall: 77.78%
+  F1-score: 0.88
+Class 134.Cape_Glossy_Starling:
+  Precision: 80.00%
+  Recall: 100.00%
+  F1-score: 0.89
+Class 135.Bank_Swallow:
+  Precision: 100.00%
+  Recall: 66.67%
+  F1-score: 0.80
+Class 136.Barn_Swallow:
+  Precision: 100.00%
+  Recall: 87.50%
+  F1-score: 0.93
+Class 137.Cliff_Swallow:
+  Precision: 80.00%
+  Recall: 80.00%
+  F1-score: 0.80
+Class 138.Tree_Swallow:
+  Precision: 91.67%
+  Recall: 100.00%
+  F1-score: 0.96
+Class 139.Scarlet_Tanager:
+  Precision: 90.91%
+  Recall: 90.91%
+  F1-score: 0.91
+Class 140.Summer_Tanager:
+  Precision: 90.91%
+  Recall: 100.00%
+  F1-score: 0.95
+Class 141.Artic_Tern:
+  Precision: 75.00%
+  Recall: 75.00%
+  F1-score: 0.75
+Class 142.Black_Tern:
+  Precision: 60.00%
+  Recall: 85.71%
+  F1-score: 0.71
+Class 143.Caspian_Tern:
+  Precision: 66.67%
+  Recall: 100.00%
+  F1-score: 0.80
+Class 144.Common_Tern:
+  Precision: 100.00%
+  Recall: 45.45%
+  F1-score: 0.62
+Class 145.Elegant_Tern:
+  Precision: 100.00%
+  Recall: 71.43%
+  F1-score: 0.83
+Class 146.Forsters_Tern:
+  Precision: 83.33%
+  Recall: 100.00%
+  F1-score: 0.91
+Class 147.Least_Tern:
+  Precision: 62.50%
+  Recall: 100.00%
+  F1-score: 0.77
+Class 148.Green_tailed_Towhee:
+  Precision: 100.00%
+  Recall: 100.00%
+  F1-score: 1.00
+Class 149.Brown_Thrasher:
+  Precision: 100.00%
+  Recall: 100.00%
+  F1-score: 1.00
+Class 150.Sage_Thrasher:
+  Precision: 60.00%
+  Recall: 100.00%
+  F1-score: 0.75
+Class 151.Black_capped_Vireo:
+  Precision: 77.78%
+  Recall: 87.50%
+  F1-score: 0.82
+Class 152.Blue_headed_Vireo:
+  Precision: 85.71%
+  Recall: 92.31%
+  F1-score: 0.89
+Class 153.Philadelphia_Vireo:
+  Precision: 81.82%
+  Recall: 100.00%
+  F1-score: 0.90
+Class 154.Red_eyed_Vireo:
+  Precision: 87.50%
+  Recall: 63.64%
+  F1-score: 0.74
+Class 155.Warbling_Vireo:
+  Precision: 66.67%
+  Recall: 66.67%
+  F1-score: 0.67
+Class 156.White_eyed_Vireo:
+  Precision: 100.00%
+  Recall: 92.86%
+  F1-score: 0.96
+Class 157.Yellow_throated_Vireo:
+  Precision: 80.00%
+  Recall: 88.89%
+  F1-score: 0.84
+Class 158.Bay_breasted_Warbler:
+  Precision: 90.91%
+  Recall: 100.00%
+  F1-score: 0.95
+Class 159.Black_and_white_Warbler:
+  Precision: 88.89%
+  Recall: 100.00%
+  F1-score: 0.94
+Class 160.Black_throated_Blue_Warbler:
+  Precision: 88.89%
+  Recall: 88.89%
+  F1-score: 0.89
+Class 161.Blue_winged_Warbler:
+  Precision: 80.00%
+  Recall: 88.89%
+  F1-score: 0.84
+Class 162.Canada_Warbler:
+  Precision: 90.00%
+  Recall: 81.82%
+  F1-score: 0.86
+Class 163.Cape_May_Warbler:
+  Precision: 100.00%
+  Recall: 100.00%
+  F1-score: 1.00
+Class 164.Cerulean_Warbler:
+  Precision: 93.33%
+  Recall: 93.33%
+  F1-score: 0.93
+Class 165.Chestnut_sided_Warbler:
+  Precision: 77.78%
+  Recall: 100.00%
+  F1-score: 0.88
+Class 166.Golden_winged_Warbler:
+  Precision: 75.00%
+  Recall: 85.71%
+  F1-score: 0.80
+Class 167.Hooded_Warbler:
+  Precision: 60.00%
+  Recall: 75.00%
+  F1-score: 0.67
+Class 168.Kentucky_Warbler:
+  Precision: 100.00%
+  Recall: 100.00%
+  F1-score: 1.00
+Class 169.Magnolia_Warbler:
+  Precision: 100.00%
+  Recall: 71.43%
+  F1-score: 0.83
+Class 170.Mourning_Warbler:
+  Precision: 83.33%
+  Recall: 83.33%
+  F1-score: 0.83
+Class 171.Myrtle_Warbler:
+  Precision: 86.67%
+  Recall: 92.86%
+  F1-score: 0.90
+Class 172.Nashville_Warbler:
+  Precision: 100.00%
+  Recall: 90.91%
+  F1-score: 0.95
+Class 173.Orange_crowned_Warbler:
+  Precision: 84.62%
+  Recall: 100.00%
+  F1-score: 0.92
+Class 174.Palm_Warbler:
+  Precision: 87.50%
+  Recall: 87.50%
+  F1-score: 0.88
+Class 175.Pine_Warbler:
+  Precision: 90.00%
+  Recall: 90.00%
+  F1-score: 0.90
+Class 176.Prairie_Warbler:
+  Precision: 100.00%
+  Recall: 75.00%
+  F1-score: 0.86
+Class 177.Prothonotary_Warbler:
+  Precision: 85.71%
+  Recall: 85.71%
+  F1-score: 0.86
+Class 178.Swainson_Warbler:
+  Precision: 100.00%
+  Recall: 85.71%
+  F1-score: 0.92
+Class 179.Tennessee_Warbler:
+  Precision: 88.89%
+  Recall: 88.89%
+  F1-score: 0.89
+Class 180.Wilson_Warbler:
+  Precision: 100.00%
+  Recall: 100.00%
+  F1-score: 1.00
+Class 181.Worm_eating_Warbler:
+  Precision: 100.00%
+  Recall: 90.00%
+  F1-score: 0.95
+Class 182.Yellow_Warbler:
+  Precision: 81.82%
+  Recall: 75.00%
+  F1-score: 0.78
+Class 183.Northern_Waterthrush:
+  Precision: 66.67%
+  Recall: 100.00%
+  F1-score: 0.80
+Class 184.Louisiana_Waterthrush:
+  Precision: 100.00%
+  Recall: 80.00%
+  F1-score: 0.89
+Class 185.Bohemian_Waxwing:
+  Precision: 93.75%
+  Recall: 93.75%
+  F1-score: 0.94
+Class 186.Cedar_Waxwing:
+  Precision: 100.00%
+  Recall: 83.33%
+  F1-score: 0.91
+Class 187.American_Three_toed_Woodpecker:
+  Precision: 100.00%
+  Recall: 85.71%
+  F1-score: 0.92
+Class 188.Pileated_Woodpecker:
+  Precision: 100.00%
+  Recall: 93.33%
+  F1-score: 0.97
+Class 189.Red_bellied_Woodpecker:
+  Precision: 90.00%
+  Recall: 100.00%
+  F1-score: 0.95
+Class 190.Red_cockaded_Woodpecker:
+  Precision: 100.00%
+  Recall: 100.00%
+  F1-score: 1.00
+Class 191.Red_headed_Woodpecker:
+  Precision: 91.67%
+  Recall: 100.00%
+  F1-score: 0.96
+Class 192.Downy_Woodpecker:
+  Precision: 83.33%
+  Recall: 83.33%
+  F1-score: 0.83
+Class 193.Bewick_Wren:
+  Precision: 75.00%
+  Recall: 90.00%
+  F1-score: 0.82
+Class 194.Cactus_Wren:
+  Precision: 88.89%
+  Recall: 100.00%
+  F1-score: 0.94
+Class 195.Carolina_Wren:
+  Precision: 100.00%
+  Recall: 85.71%
+  F1-score: 0.92
+Class 196.House_Wren:
+  Precision: 92.31%
+  Recall: 85.71%
+  F1-score: 0.89
+Class 197.Marsh_Wren:
+  Precision: 83.33%
+  Recall: 100.00%
+  F1-score: 0.91
+Class 198.Rock_Wren:
+  Precision: 100.00%
+  Recall: 92.86%
+  F1-score: 0.96
+Class 199.Winter_Wren:
+  Precision: 76.92%
+  Recall: 90.91%
+  F1-score: 0.83
+Class 200.Common_Yellowthroat:
+  Precision: 100.00%
+  Recall: 100.00%
+  F1-score: 1.00
+
+Overall Precision: 90.52%
+Overall Recall: 89.32%
+Overall F1-score: 0.89
+
+
+
+
+
+Sequential(
+  (0): Linear(in_features=1280, out_features=2048, bias=True)
+  (1): SiLU()
+  (2): Dropout(p=0.3, inplace=False)
+  (3): Linear(in_features=2048, out_features=200, bias=True)
+)
+
+EfficientNet(
+  (features): Sequential(
+    (0): Conv2dNormActivation(
+      (0): Conv2d(3, 32, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+      (1): BatchNorm2d(32, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (2): SiLU(inplace=True)
+    )
+    (1): Sequential(
+      (0): MBConv(
+        (block): Sequential(
+          (0): Conv2dNormActivation(
+            (0): Conv2d(32, 32, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=32, bias=False)
+            (1): BatchNorm2d(32, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (2): SiLU(inplace=True)
+          )
+          (1): SqueezeExcitation(
+            (avgpool): AdaptiveAvgPool2d(output_size=1)
+            (fc1): Conv2d(32, 8, kernel_size=(1, 1), stride=(1, 1))
+            (fc2): Conv2d(8, 32, kernel_size=(1, 1), stride=(1, 1))
+            (activation): SiLU(inplace=True)
+            (scale_activation): Sigmoid()
+          )
+          (2): Conv2dNormActivation(
+            (0): Conv2d(32, 16, kernel_size=(1, 1), stride=(1, 1), bias=False)
+            (1): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          )
+        )
+        (stochastic_depth): StochasticDepth(p=0.0, mode=row)
+      )
+    )
+    (2): Sequential(
+      (0): MBConv(
+        (block): Sequential(
+          (0): Conv2dNormActivation(
+            (0): Conv2d(16, 96, kernel_size=(1, 1), stride=(1, 1), bias=False)
+            (1): BatchNorm2d(96, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (2): SiLU(inplace=True)
+          )
+          (1): Conv2dNormActivation(
+            (0): Conv2d(96, 96, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=96, bias=False)
+            (1): BatchNorm2d(96, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (2): SiLU(inplace=True)
+          )
+          (2): SqueezeExcitation(
+            (avgpool): AdaptiveAvgPool2d(output_size=1)
+            (fc1): Conv2d(96, 4, kernel_size=(1, 1), stride=(1, 1))
+            (fc2): Conv2d(4, 96, kernel_size=(1, 1), stride=(1, 1))
+            (activation): SiLU(inplace=True)
+            (scale_activation): Sigmoid()
+          )
+          (3): Conv2dNormActivation(
+            (0): Conv2d(96, 24, kernel_size=(1, 1), stride=(1, 1), bias=False)
+            (1): BatchNorm2d(24, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          )
+        )
+        (stochastic_depth): StochasticDepth(p=0.0125, mode=row)
+      )
+      (1): MBConv(
+        (block): Sequential(
+          (0): Conv2dNormActivation(
+            (0): Conv2d(24, 144, kernel_size=(1, 1), stride=(1, 1), bias=False)
+            (1): BatchNorm2d(144, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (2): SiLU(inplace=True)
+          )
+          (1): Conv2dNormActivation(
+            (0): Conv2d(144, 144, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=144, bias=False)
+            (1): BatchNorm2d(144, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (2): SiLU(inplace=True)
+          )
+          (2): SqueezeExcitation(
+            (avgpool): AdaptiveAvgPool2d(output_size=1)
+            (fc1): Conv2d(144, 6, kernel_size=(1, 1), stride=(1, 1))
+            (fc2): Conv2d(6, 144, kernel_size=(1, 1), stride=(1, 1))
+            (activation): SiLU(inplace=True)
+            (scale_activation): Sigmoid()
+          )
+          (3): Conv2dNormActivation(
+            (0): Conv2d(144, 24, kernel_size=(1, 1), stride=(1, 1), bias=False)
+            (1): BatchNorm2d(24, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          )
+        )
+        (stochastic_depth): StochasticDepth(p=0.025, mode=row)
+      )
+    )
+    (3): Sequential(
+      (0): MBConv(
+        (block): Sequential(
+          (0): Conv2dNormActivation(
+            (0): Conv2d(24, 144, kernel_size=(1, 1), stride=(1, 1), bias=False)
+            (1): BatchNorm2d(144, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (2): SiLU(inplace=True)
+          )
+          (1): Conv2dNormActivation(
+            (0): Conv2d(144, 144, kernel_size=(5, 5), stride=(2, 2), padding=(2, 2), groups=144, bias=False)
+            (1): BatchNorm2d(144, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (2): SiLU(inplace=True)
+          )
+          (2): SqueezeExcitation(
+            (avgpool): AdaptiveAvgPool2d(output_size=1)
+            (fc1): Conv2d(144, 6, kernel_size=(1, 1), stride=(1, 1))
+            (fc2): Conv2d(6, 144, kernel_size=(1, 1), stride=(1, 1))
+            (activation): SiLU(inplace=True)
+            (scale_activation): Sigmoid()
+          )
+          (3): Conv2dNormActivation(
+            (0): Conv2d(144, 40, kernel_size=(1, 1), stride=(1, 1), bias=False)
+            (1): BatchNorm2d(40, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          )
+        )
+        (stochastic_depth): StochasticDepth(p=0.037500000000000006, mode=row)
+      )
+      (1): MBConv(
+        (block): Sequential(
+          (0): Conv2dNormActivation(
+            (0): Conv2d(40, 240, kernel_size=(1, 1), stride=(1, 1), bias=False)
+            (1): BatchNorm2d(240, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (2): SiLU(inplace=True)
+          )
+          (1): Conv2dNormActivation(
+            (0): Conv2d(240, 240, kernel_size=(5, 5), stride=(1, 1), padding=(2, 2), groups=240, bias=False)
+            (1): BatchNorm2d(240, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (2): SiLU(inplace=True)
+          )
+          (2): SqueezeExcitation(
+            (avgpool): AdaptiveAvgPool2d(output_size=1)
+            (fc1): Conv2d(240, 10, kernel_size=(1, 1), stride=(1, 1))
+            (fc2): Conv2d(10, 240, kernel_size=(1, 1), stride=(1, 1))
+            (activation): SiLU(inplace=True)
+            (scale_activation): Sigmoid()
+          )
+          (3): Conv2dNormActivation(
+            (0): Conv2d(240, 40, kernel_size=(1, 1), stride=(1, 1), bias=False)
+            (1): BatchNorm2d(40, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          )
+        )
+        (stochastic_depth): StochasticDepth(p=0.05, mode=row)
+      )
+    )
+    (4): Sequential(
+      (0): MBConv(
+        (block): Sequential(
+          (0): Conv2dNormActivation(
+            (0): Conv2d(40, 240, kernel_size=(1, 1), stride=(1, 1), bias=False)
+            (1): BatchNorm2d(240, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (2): SiLU(inplace=True)
+          )
+          (1): Conv2dNormActivation(
+            (0): Conv2d(240, 240, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=240, bias=False)
+            (1): BatchNorm2d(240, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (2): SiLU(inplace=True)
+          )
+          (2): SqueezeExcitation(
+            (avgpool): AdaptiveAvgPool2d(output_size=1)
+            (fc1): Conv2d(240, 10, kernel_size=(1, 1), stride=(1, 1))
+            (fc2): Conv2d(10, 240, kernel_size=(1, 1), stride=(1, 1))
+            (activation): SiLU(inplace=True)
+            (scale_activation): Sigmoid()
+          )
+          (3): Conv2dNormActivation(
+            (0): Conv2d(240, 80, kernel_size=(1, 1), stride=(1, 1), bias=False)
+            (1): BatchNorm2d(80, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          )
+        )
+        (stochastic_depth): StochasticDepth(p=0.0625, mode=row)
+      )
+      (1): MBConv(
+        (block): Sequential(
+          (0): Conv2dNormActivation(
+            (0): Conv2d(80, 480, kernel_size=(1, 1), stride=(1, 1), bias=False)
+            (1): BatchNorm2d(480, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (2): SiLU(inplace=True)
+          )
+          (1): Conv2dNormActivation(
+            (0): Conv2d(480, 480, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=480, bias=False)
+            (1): BatchNorm2d(480, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (2): SiLU(inplace=True)
+          )
+          (2): SqueezeExcitation(
+            (avgpool): AdaptiveAvgPool2d(output_size=1)
+            (fc1): Conv2d(480, 20, kernel_size=(1, 1), stride=(1, 1))
+            (fc2): Conv2d(20, 480, kernel_size=(1, 1), stride=(1, 1))
+            (activation): SiLU(inplace=True)
+            (scale_activation): Sigmoid()
+          )
+          (3): Conv2dNormActivation(
+            (0): Conv2d(480, 80, kernel_size=(1, 1), stride=(1, 1), bias=False)
+            (1): BatchNorm2d(80, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          )
+        )
+        (stochastic_depth): StochasticDepth(p=0.07500000000000001, mode=row)
+      )
+      (2): MBConv(
+        (block): Sequential(
+          (0): Conv2dNormActivation(
+            (0): Conv2d(80, 480, kernel_size=(1, 1), stride=(1, 1), bias=False)
+            (1): BatchNorm2d(480, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (2): SiLU(inplace=True)
+          )
+          (1): Conv2dNormActivation(
+            (0): Conv2d(480, 480, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=480, bias=False)
+            (1): BatchNorm2d(480, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (2): SiLU(inplace=True)
+          )
+          (2): SqueezeExcitation(
+            (avgpool): AdaptiveAvgPool2d(output_size=1)
+            (fc1): Conv2d(480, 20, kernel_size=(1, 1), stride=(1, 1))
+            (fc2): Conv2d(20, 480, kernel_size=(1, 1), stride=(1, 1))
+            (activation): SiLU(inplace=True)
+            (scale_activation): Sigmoid()
+          )
+          (3): Conv2dNormActivation(
+            (0): Conv2d(480, 80, kernel_size=(1, 1), stride=(1, 1), bias=False)
+            (1): BatchNorm2d(80, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          )
+        )
+        (stochastic_depth): StochasticDepth(p=0.08750000000000001, mode=row)
+      )
+    )
+    (5): Sequential(
+      (0): MBConv(
+        (block): Sequential(
+          (0): Conv2dNormActivation(
+            (0): Conv2d(80, 480, kernel_size=(1, 1), stride=(1, 1), bias=False)
+            (1): BatchNorm2d(480, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (2): SiLU(inplace=True)
+          )
+          (1): Conv2dNormActivation(
+            (0): Conv2d(480, 480, kernel_size=(5, 5), stride=(1, 1), padding=(2, 2), groups=480, bias=False)
+            (1): BatchNorm2d(480, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (2): SiLU(inplace=True)
+          )
+          (2): SqueezeExcitation(
+            (avgpool): AdaptiveAvgPool2d(output_size=1)
+            (fc1): Conv2d(480, 20, kernel_size=(1, 1), stride=(1, 1))
+            (fc2): Conv2d(20, 480, kernel_size=(1, 1), stride=(1, 1))
+            (activation): SiLU(inplace=True)
+            (scale_activation): Sigmoid()
+          )
+          (3): Conv2dNormActivation(
+            (0): Conv2d(480, 112, kernel_size=(1, 1), stride=(1, 1), bias=False)
+            (1): BatchNorm2d(112, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          )
+        )
+        (stochastic_depth): StochasticDepth(p=0.1, mode=row)
+      )
+      (1): MBConv(
+        (block): Sequential(
+          (0): Conv2dNormActivation(
+            (0): Conv2d(112, 672, kernel_size=(1, 1), stride=(1, 1), bias=False)
+            (1): BatchNorm2d(672, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (2): SiLU(inplace=True)
+          )
+          (1): Conv2dNormActivation(
+            (0): Conv2d(672, 672, kernel_size=(5, 5), stride=(1, 1), padding=(2, 2), groups=672, bias=False)
+            (1): BatchNorm2d(672, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (2): SiLU(inplace=True)
+          )
+          (2): SqueezeExcitation(
+            (avgpool): AdaptiveAvgPool2d(output_size=1)
+            (fc1): Conv2d(672, 28, kernel_size=(1, 1), stride=(1, 1))
+            (fc2): Conv2d(28, 672, kernel_size=(1, 1), stride=(1, 1))
+            (activation): SiLU(inplace=True)
+            (scale_activation): Sigmoid()
+          )
+          (3): Conv2dNormActivation(
+            (0): Conv2d(672, 112, kernel_size=(1, 1), stride=(1, 1), bias=False)
+            (1): BatchNorm2d(112, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          )
+        )
+        (stochastic_depth): StochasticDepth(p=0.1125, mode=row)
+      )
+      (2): MBConv(
+        (block): Sequential(
+          (0): Conv2dNormActivation(
+            (0): Conv2d(112, 672, kernel_size=(1, 1), stride=(1, 1), bias=False)
+            (1): BatchNorm2d(672, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (2): SiLU(inplace=True)
+          )
+          (1): Conv2dNormActivation(
+            (0): Conv2d(672, 672, kernel_size=(5, 5), stride=(1, 1), padding=(2, 2), groups=672, bias=False)
+            (1): BatchNorm2d(672, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (2): SiLU(inplace=True)
+          )
+          (2): SqueezeExcitation(
+            (avgpool): AdaptiveAvgPool2d(output_size=1)
+            (fc1): Conv2d(672, 28, kernel_size=(1, 1), stride=(1, 1))
+            (fc2): Conv2d(28, 672, kernel_size=(1, 1), stride=(1, 1))
+            (activation): SiLU(inplace=True)
+            (scale_activation): Sigmoid()
+          )
+          (3): Conv2dNormActivation(
+            (0): Conv2d(672, 112, kernel_size=(1, 1), stride=(1, 1), bias=False)
+            (1): BatchNorm2d(112, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          )
+        )
+        (stochastic_depth): StochasticDepth(p=0.125, mode=row)
+      )
+    )
+    (6): Sequential(
+      (0): MBConv(
+        (block): Sequential(
+          (0): Conv2dNormActivation(
+            (0): Conv2d(112, 672, kernel_size=(1, 1), stride=(1, 1), bias=False)
+            (1): BatchNorm2d(672, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (2): SiLU(inplace=True)
+          )
+          (1): Conv2dNormActivation(
+            (0): Conv2d(672, 672, kernel_size=(5, 5), stride=(2, 2), padding=(2, 2), groups=672, bias=False)
+            (1): BatchNorm2d(672, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (2): SiLU(inplace=True)
+          )
+          (2): SqueezeExcitation(
+            (avgpool): AdaptiveAvgPool2d(output_size=1)
+            (fc1): Conv2d(672, 28, kernel_size=(1, 1), stride=(1, 1))
+            (fc2): Conv2d(28, 672, kernel_size=(1, 1), stride=(1, 1))
+            (activation): SiLU(inplace=True)
+            (scale_activation): Sigmoid()
+          )
+          (3): Conv2dNormActivation(
+            (0): Conv2d(672, 192, kernel_size=(1, 1), stride=(1, 1), bias=False)
+            (1): BatchNorm2d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          )
+        )
+        (stochastic_depth): StochasticDepth(p=0.1375, mode=row)
+      )
+      (1): MBConv(
+        (block): Sequential(
+          (0): Conv2dNormActivation(
+            (0): Conv2d(192, 1152, kernel_size=(1, 1), stride=(1, 1), bias=False)
+            (1): BatchNorm2d(1152, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (2): SiLU(inplace=True)
+          )
+          (1): Conv2dNormActivation(
+            (0): Conv2d(1152, 1152, kernel_size=(5, 5), stride=(1, 1), padding=(2, 2), groups=1152, bias=False)
+            (1): BatchNorm2d(1152, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (2): SiLU(inplace=True)
+          )
+          (2): SqueezeExcitation(
+            (avgpool): AdaptiveAvgPool2d(output_size=1)
+            (fc1): Conv2d(1152, 48, kernel_size=(1, 1), stride=(1, 1))
+            (fc2): Conv2d(48, 1152, kernel_size=(1, 1), stride=(1, 1))
+            (activation): SiLU(inplace=True)
+            (scale_activation): Sigmoid()
+          )
+          (3): Conv2dNormActivation(
+            (0): Conv2d(1152, 192, kernel_size=(1, 1), stride=(1, 1), bias=False)
+            (1): BatchNorm2d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          )
+        )
+        (stochastic_depth): StochasticDepth(p=0.15000000000000002, mode=row)
+      )
+      (2): MBConv(
+        (block): Sequential(
+          (0): Conv2dNormActivation(
+            (0): Conv2d(192, 1152, kernel_size=(1, 1), stride=(1, 1), bias=False)
+            (1): BatchNorm2d(1152, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (2): SiLU(inplace=True)
+          )
+          (1): Conv2dNormActivation(
+            (0): Conv2d(1152, 1152, kernel_size=(5, 5), stride=(1, 1), padding=(2, 2), groups=1152, bias=False)
+            (1): BatchNorm2d(1152, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (2): SiLU(inplace=True)
+          )
+          (2): SqueezeExcitation(
+            (avgpool): AdaptiveAvgPool2d(output_size=1)
+            (fc1): Conv2d(1152, 48, kernel_size=(1, 1), stride=(1, 1))
+            (fc2): Conv2d(48, 1152, kernel_size=(1, 1), stride=(1, 1))
+            (activation): SiLU(inplace=True)
+            (scale_activation): Sigmoid()
+          )
+          (3): Conv2dNormActivation(
+            (0): Conv2d(1152, 192, kernel_size=(1, 1), stride=(1, 1), bias=False)
+            (1): BatchNorm2d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          )
+        )
+        (stochastic_depth): StochasticDepth(p=0.1625, mode=row)
+      )
+      (3): MBConv(
+        (block): Sequential(
+          (0): Conv2dNormActivation(
+            (0): Conv2d(192, 1152, kernel_size=(1, 1), stride=(1, 1), bias=False)
+            (1): BatchNorm2d(1152, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (2): SiLU(inplace=True)
+          )
+          (1): Conv2dNormActivation(
+            (0): Conv2d(1152, 1152, kernel_size=(5, 5), stride=(1, 1), padding=(2, 2), groups=1152, bias=False)
+            (1): BatchNorm2d(1152, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (2): SiLU(inplace=True)
+          )
+          (2): SqueezeExcitation(
+            (avgpool): AdaptiveAvgPool2d(output_size=1)
+            (fc1): Conv2d(1152, 48, kernel_size=(1, 1), stride=(1, 1))
+            (fc2): Conv2d(48, 1152, kernel_size=(1, 1), stride=(1, 1))
+            (activation): SiLU(inplace=True)
+            (scale_activation): Sigmoid()
+          )
+          (3): Conv2dNormActivation(
+            (0): Conv2d(1152, 192, kernel_size=(1, 1), stride=(1, 1), bias=False)
+            (1): BatchNorm2d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          )
+        )
+        (stochastic_depth): StochasticDepth(p=0.17500000000000002, mode=row)
+      )
+    )
+    (7): Sequential(
+      (0): MBConv(
+        (block): Sequential(
+          (0): Conv2dNormActivation(
+            (0): Conv2d(192, 1152, kernel_size=(1, 1), stride=(1, 1), bias=False)
+            (1): BatchNorm2d(1152, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (2): SiLU(inplace=True)
+          )
+          (1): Conv2dNormActivation(
+            (0): Conv2d(1152, 1152, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=1152, bias=False)
+            (1): BatchNorm2d(1152, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            (2): SiLU(inplace=True)
+          )
+          (2): SqueezeExcitation(
+            (avgpool): AdaptiveAvgPool2d(output_size=1)
+            (fc1): Conv2d(1152, 48, kernel_size=(1, 1), stride=(1, 1))
+            (fc2): Conv2d(48, 1152, kernel_size=(1, 1), stride=(1, 1))
+            (activation): SiLU(inplace=True)
+            (scale_activation): Sigmoid()
+          )
+          (3): Conv2dNormActivation(
+            (0): Conv2d(1152, 320, kernel_size=(1, 1), stride=(1, 1), bias=False)
+            (1): BatchNorm2d(320, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          )
+        )
+        (stochastic_depth): StochasticDepth(p=0.1875, mode=row)
+      )
+    )
+    (8): Conv2dNormActivation(
+      (0): Conv2d(320, 1280, kernel_size=(1, 1), stride=(1, 1), bias=False)
+      (1): BatchNorm2d(1280, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (2): SiLU(inplace=True)
+    )
+  )
+  (avgpool): AdaptiveAvgPool2d(output_size=1)
+  (classifier): Sequential(
+    (0): Linear(in_features=1280, out_features=2048, bias=True)
+    (1): SiLU()
+    (2): Dropout(p=0.3, inplace=False)
+    (3): Linear(in_features=2048, out_features=200, bias=True)
+  )
+)
